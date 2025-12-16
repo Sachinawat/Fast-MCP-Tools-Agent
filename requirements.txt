@@ -1,0 +1,11 @@
+mcp
+langchain
+langchain-openai
+langchain-community
+chromadb
+sqlalchemy
+pandas
+sympy
+rich
+python-dotenv
+pydantic
